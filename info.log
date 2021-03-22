@@ -1,0 +1,30 @@
+2021/03/22 21:32:32 Test log
+2021/03/22 21:32:46 pq: operator does not exist: integer =?
+2021/03/22 21:33:24 Test log
+2021/03/22 21:33:30 Test log
+2021/03/22 21:33:37 Test log
+2021/03/22 21:36:11 pq: syntax error at or near ","
+2021/03/22 21:41:04 Error 1045: Access denied for user 'mysql'@'localhost' (using password: YES)
+2021/03/22 22:05:54 Test log
+2021/03/22 22:05:58 Test log
+2021/03/22 22:06:31 Test log
+2021/03/22 22:06:39 Test log
+2021/03/22 22:07:26 Test log
+2021/03/22 22:07:49 Test log
+2021/03/22 22:08:25 Test log
+2021/03/22 22:08:52 Test log
+2021/03/22 22:09:13 Test log
+2021/03/22 22:09:45 Test log
+2021/03/22 22:09:49 Test log
+2021/03/22 22:09:52 Test log
+2021/03/22 22:10:26 Test log
+2021/03/22 22:10:32 Test log
+2021/03/22 22:16:27 Test log
+2021/03/22 22:20:37 Test log
+2021/03/22 22:23:01 Test log
+2021/03/22 22:23:14 pq: syntax error at or near ","
+2021/03/22 22:23:59 Test log
+2021/03/22 22:25:28 Test log
+2021/03/22 23:25:12 failed to load the database
+2021/03/22 23:25:38 failed to load the database2
+2021/03/22 23:26:17 ping to the database host failed
